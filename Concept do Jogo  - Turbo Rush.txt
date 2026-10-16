@@ -16,6 +16,7 @@ Possibilidade de personalizar as teclas de movimentação.
 Ajustes individuais de volume da música e dos efeitos sonoros.
 Interface com textos legíveis e indicadores visuais de pontuação.
 Opção de reduzir efeitos visuais e animações para melhorar o conforto durante a partida.
+Filtro de cores para pessoas com daltonismo.
 
 Idiomas
 Português e inglês (acessibilidade ao público brasileiro e possibilidade de alcançar jogadores internacionais).
@@ -35,7 +36,3 @@ Amarelo: aplicado nas sinalizações, faixas e detalhes da interface, remetendo 
 Vermelho: utilizado no carro principal e nos alertas de colisão, transmitindo energia e intensidade.
 Azul: aplicado nos menus, botões e elementos da interface, proporcionando contraste e identificação visual.
 Branco: utilizado nos textos, indicadores de pontuação e marcações da pista, garantindo legibilidade.
-
-
-Fluxo de Telas
-https://www.figma.com/design/hCWIhj4sMTU9TOKAAfs23T/Diagrama-de-Telas---Jogo?node-id=0-1&t=SPAQmdIy9n6n3F66-1
