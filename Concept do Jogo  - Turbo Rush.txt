@@ -1,5 +1,5 @@
 Gênero
-Corrida arcade infinita (Endless Runner), ação e sobrevivência 2D.
+Corrida arcade infinita, ação e sobrevivência 2D.
 
 Estilo (Arte)
 Pixel art 2D, com visão superior (top-down), visual colorido e elementos inspirados em jogos clássicos de corrida arcade.
